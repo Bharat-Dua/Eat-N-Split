@@ -55,6 +55,8 @@ body {
   gap: 0.4rem;
   font-size: 1.4rem;
   margin-bottom: 2rem;
+  max-height: 500px;
+  overflow-y: auto;
 }
 
 .sidebar li {
